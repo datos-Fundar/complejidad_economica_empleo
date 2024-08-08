@@ -1,5 +1,7 @@
 [![Alt text](https://fund.ar/wp-content/uploads/2024/07/iStock-2024514092-scaled.jpg)](https://fund.ar/publicacion/guia-practica-para-analizar-la-complejidad-economica-de-una-provincia/)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13274055.svg)](https://doi.org/10.5281/zenodo.13274055)
+
 # Guía práctica para analizar la Complejidad Económica de una provincia
 
 En este repositorio se comparten los cálculos que se han utilizado para la **Guía práctica para analizar la Complejidad Económica de una provincia** [^1]. Contiene también las bases de datos que se han utilizado para generar los análisis presentados en el documento. Las fuentes de datos son los datos de [empleo registrado por actividad y departamento](https://datos.gob.ar/dataset/produccion-distribucion-geografica-establecimientos-productivos) publicados por el Ministerio de Economía, Secretaría de Industria, Dirección Nacional de Estudios para la Producción (CEP XXI). Los cálculos se encuentran basados en aquellos realizados para el proyecto de Complejidad Económica Verde que se encuentran en el siguiente [repositorio](https://github.com/datos-Fundar/complejidad-economica).
