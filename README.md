@@ -12,15 +12,16 @@ En este repositorio se comparten los cálculos que se han utilizado para la **Gu
 **Cita Sugerida:**
 ```
 Luvini, P. (2024). Guía práctica para analizar la Complejidad Económica de una provincia. Fundar.
+```
 
 Bibtex:
-
+```bibtex
 @report{luvini2024calculos,
-  author    = {Luvini, P.},
-  title     = {Cálculos de la Guía práctica para analizar la Complejidad Económica de una provincia},
-  year      = {2024},
+  author      = {Luvini, P.},
+  title       = {Cálculos de la Guía práctica para analizar la Complejidad Económica de una provincia},
+  year        = {2024},
   institution = {Fundar},
-  type      = {Document}
+  type        = {Document}
 }
 
 ```
