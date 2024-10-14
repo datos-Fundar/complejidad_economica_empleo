@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Si usás este repositorio, por favor citalo usando estos datos."
+license: CC-BY-NC-SA-4.0
+type: dataset
+date-released: "2024-08-08"
+title: "Guía práctica para analizar la Complejidad Económica de una provincia"
+abstract: >-
+  La Complejidad Económica es una metodología que mide el grado de conocimiento que acumula una economía sobre sus distintas actividades productivas. 
+  A partir de un mapeo de estas actividades, permite diagnosticar la complejidad de cada región y planificar una perspectiva de desarrollo basada en sus capacidades. 
+  Ahora bien, ¿qué beneficios puede promover este método de análisis? Una guía introductoria a su funcionamiento en una perspectiva provincial a partir de datos de empleo.
+
+repository-code: "https://github.com/datos-Fundar/complejidad_economica_empleo"
+url: "https://fund.ar/publicacion/guia-practica-para-analizar-la-complejidad-economica-de-una-provincia/"
+
+identifiers:
+  - description: "datos-Fundar/complejidad_economica_empleo: Complejidad Económica de una provincia a través de datos de empleo"
+    type: doi
+    value: 10.5281/zenodo.13274055
+authors:
+  - given-names: "Paula"
+    family-names: "Luvini"
+    affiliation: "Fundar"
